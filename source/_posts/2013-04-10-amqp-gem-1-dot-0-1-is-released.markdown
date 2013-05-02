@@ -15,7 +15,7 @@ categories:
 This release has bug fixes by upgrading `amq-protocol` dependency to `1.3.0+`.
 
 
-## Changes between Bunny 1.0.0 and 1.0.1
+## Changes between amqp gem 1.0.0 and 1.0.1
 
 ### amq-protocol Bug Fixes
 
