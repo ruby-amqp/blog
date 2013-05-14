@@ -10,7 +10,7 @@ categories:
 
 ## TL;DR
 
-[Bunny 0.9.0.pre10](https://rubygems.org/gems/bunny/versions/0.9.0.pre10) is released to rubygems.org.
+[Bunny 0.9.0.pre11](https://rubygems.org/gems/bunny/versions/0.9.0.pre11) is released to rubygems.org.
 
 This release includes minor new features, stability and performance improvements. It is **backwards compatible**.
 
