@@ -2,8 +2,11 @@
 layout: post
 title: "HotBunnies 2.0.0.pre10 is released"
 date: 2013-08-12 09:06
-comments: true
+comments: false
 categories: 
+  - releases
+  - jruby
+  - hot_bunnies
 ---
 
 ## TL;DR
