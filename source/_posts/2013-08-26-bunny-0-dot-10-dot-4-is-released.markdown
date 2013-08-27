@@ -10,7 +10,7 @@ categories:
 
 ## TL;DR
 
-[Bunny 0.10.4](https://rubygems.org/gems/bunny/versions/0.10.3) is released to rubygems.org.
+[Bunny 0.10.4](https://rubygems.org/gems/bunny/versions/0.10.4) is released to rubygems.org.
 
 This is a usability improvements release that is **completely backwards compatible**
 with `0.10.x`.
