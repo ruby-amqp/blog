@@ -22,9 +22,9 @@ major API improvements and features.
 Please consult the change log below before considering upgrading.
 
 
-# Changes Between 2.0.0.pre10 and 2.0.0.pre11
+## Changes Between 2.0.0.pre10 and 2.0.0.pre11
 
-## Consumer Work Pool Changes
+### Consumer Work Pool Changes
 
 HotBunnies 1.x used to maintain a separate executor (thread pool) per non-blocking
 consumer. This is not optimal and reimplements the wheel RabbitMQ Java client
