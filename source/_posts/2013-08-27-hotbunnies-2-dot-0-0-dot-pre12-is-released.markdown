@@ -12,7 +12,7 @@ categories:
 ## TL;DR
 
 [HotBunnies
-2.0.0.pre11](https://rubygems.org/gems/hot_bunnies/versions/2.0.0.pre11)
+2.0.0.pre12](https://rubygems.org/gems/hot_bunnies/versions/2.0.0.pre12)
 is released to rubygems.org.
 
 This release is a development milestone. 2.0 focuses on usability and introduces a couple of
