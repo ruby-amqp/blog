@@ -10,7 +10,7 @@ categories:
 
 ## TL;DR
 
-[amqp gem 1.0.2](https://rubygems.org/gems/amqp/versions/1.0.2) is released to rubygems.org.
+[amqp gem 1.1.0.pre1](https://rubygems.org/gems/amqp/versions/1.1.0.pre1) is released to rubygems.org.
 
 This release includes one bug fix, removes more long time deprecated code and makes
 RabbitMQ extensions being part of the core (so they are always available, no need to load them separately).
