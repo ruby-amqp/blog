@@ -36,7 +36,7 @@ We plan to release Bunny `1.0.0` on October 29th, 2013. The library
 has had its soaking period in the last few months and several issues
 were fixed during `0.10.x` releases.
 
-It has being adopted by fairly mature open source such as [Hutch](http://rabbitmq.1065348.n5.nabble.com/Hutch-Inter-service-communication-with-Ruby-and-RabbitMQ-td29471.html).
+It has being adopted by many commercial users and fairly mature open source projects, such as [Hutch](http://rabbitmq.1065348.n5.nabble.com/Hutch-Inter-service-communication-with-Ruby-and-RabbitMQ-td29471.html).
 
 Now is a good time to give Bunny a try, help us improve the [documentation](http://rubybunny.info)
 and report any usability issues you may find.
