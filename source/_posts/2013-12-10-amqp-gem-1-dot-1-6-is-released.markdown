@@ -10,7 +10,7 @@ categories:
 
 ## TL;DR
 
-[amqp gem 1.1.5](https://rubygems.org/gems/amqp/versions/1.1.5) is released to rubygems.org.
+[amqp gem 1.1.6](https://rubygems.org/gems/amqp/versions/1.1.6) is released to rubygems.org.
 
 This release is 100% backwards compatible.
 
