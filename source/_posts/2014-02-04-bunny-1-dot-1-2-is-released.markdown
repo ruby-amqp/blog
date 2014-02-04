@@ -10,7 +10,7 @@ categories:
 
 ## TL;DR
 
-[Bunny 1.1.1](https://rubygems.org/gems/bunny/versions/1.1.1) is released to rubygems.org.
+[Bunny 1.1.2](https://rubygems.org/gems/bunny/versions/1.1.2) is released to rubygems.org.
 
 This is a usability release.
 
