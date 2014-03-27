@@ -14,6 +14,7 @@ categories:
 
 This is a bug fix release.
 
+## Changes between Bunny 1.1.6 and 1.1.7
 
 ### Heartbeat Sender Thread Leak
 
