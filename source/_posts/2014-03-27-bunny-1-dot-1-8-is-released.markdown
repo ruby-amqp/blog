@@ -15,14 +15,12 @@ categories:
 This is a bug fix release.
 
 
-## Changes between Bunny 1.1.6 and 1.1.7
+## Changes between Bunny 1.1.7 and 1.1.8
 
-### Heartbeat Sender Thread Leak
+### Initial Socket Connection Again Raises Bunny::TCPConnectionFailed
 
-`Bunny::Session#close` no longer leaks heartbeat sender
-threads.
-
-Contributed by m-o-e.
+Initial socket connection again raises `Bunny::TCPConnectionFailed`
+on the connection origin thread.
 
 
 ## Full Change Log
