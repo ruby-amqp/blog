@@ -49,7 +49,7 @@ Contributed by Marius Hanne.
 
 ## Full Change Log
 
-[Full change log](https://github.com/ruby-amqp/amqp/blob/1.2.x-stable/ChangeLog.md) can be found on GitHub.
+[Full change log](https://github.com/ruby-amqp/amqp/blob/1.3.x-stable/ChangeLog.md) can be found on GitHub.
 
 
 
