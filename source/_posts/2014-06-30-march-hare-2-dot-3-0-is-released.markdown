@@ -74,8 +74,7 @@ RabbitMQ Java client dependency has been updated to `3.3.4`.
 
 ## Full Change Log
 
-Please consult the [change
-log](https://github.com/ruby-amqp/march_hare/blob/2.2.x-stable/ChangeLog.md)
+Please consult the [change log](https://github.com/ruby-amqp/march_hare/blob/master/ChangeLog.md)
 to learn about the changes.
 
 
