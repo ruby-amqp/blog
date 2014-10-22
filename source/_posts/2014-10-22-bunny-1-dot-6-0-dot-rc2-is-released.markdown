@@ -10,7 +10,7 @@ categories:
 
 ## TL;DR
 
-[Bunny 1.6.0.rc2](https://rubygems.org/gems/bunny/versions/1.6.0-rc2) is released to rubygems.org.
+[Bunny 1.6.0.rc2](https://rubygems.org/gems/bunny/versions/1.6.0.rc2) is released to rubygems.org.
 
 1.6 is a minor feature release that makes the library use TLS 1.0 or later
 when possible.
