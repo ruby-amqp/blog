@@ -10,7 +10,7 @@ categories:
 
 ## TL;DR
 
-[Hutch 0.11.0](https://rubygems.org/gems/hutch/versions/0.11.0) is released to rubygems.org.
+[Hutch 0.12.0](https://rubygems.org/gems/hutch/versions/0.12.0) is released to rubygems.org.
 
 This is primarily a bug fix release.
 
