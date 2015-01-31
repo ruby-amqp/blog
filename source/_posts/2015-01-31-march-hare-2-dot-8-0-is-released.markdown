@@ -11,7 +11,7 @@ categories:
 
 ## TL;DR
 
-[March Hare 2.8.0](https://rubygems.org/gems/march_hare/versions/2.8.0) is
+[March Hare 2.8.0](https://rubygems.org/gems/march_hare/versions/2.8.0-java) is
 released to rubygems.org.
 
 This is a minor feature release.
