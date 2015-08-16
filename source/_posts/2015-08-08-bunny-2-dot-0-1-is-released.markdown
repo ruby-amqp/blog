@@ -12,7 +12,7 @@ categories:
 
 [Bunny 2.0.1](https://rubygems.org/gems/bunny/versions/2.0.1) is released to rubygems.org.
 
-1.7.0 is a bug fix and usability release.
+This is a bug fix and usability release.
 
 
 ## Changes between Bunny 2.0.0 and 2.0.1
