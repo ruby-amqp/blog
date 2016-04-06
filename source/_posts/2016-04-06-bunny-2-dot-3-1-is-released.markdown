@@ -36,7 +36,7 @@ Contributed by Donal McBreen.
 
 ## Full Change Log
 
-[Full change log](https://github.com/ruby-amqp/bunny/blob/master/ChangeLog.md) can be found on GitHub.
+[Full change log](https://github.com/ruby-amqp/bunny/blob/2.3.x-stable/ChangeLog.md) can be found on GitHub.
 
 
 ## About the Author
