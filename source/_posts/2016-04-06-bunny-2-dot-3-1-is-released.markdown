@@ -12,7 +12,7 @@ categories:
 
 [Bunny 2.3.1](https://rubygems.org/gems/bunny/versions/2.3.1) is released to rubygems.org.
 
-`2.3.0` is a maintenance release.
+`2.3.1` is a maintenance release.
 
 
 ## Changes between Bunny 2.3.0 and 2.3.1
