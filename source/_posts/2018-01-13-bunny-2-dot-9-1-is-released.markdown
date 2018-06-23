@@ -3,7 +3,9 @@ layout: post
 title: "Bunny 2.9.1 is released"
 date: 2018-01-13 01:45
 comments: true
-categories: 
+categories:
+  - bunny
+  - releases
 ---
 
 ## TL;DR
